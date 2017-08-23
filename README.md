@@ -13,7 +13,7 @@ http://www.openluat.com/
 
 
 ## Peripheral
-##### LCD12864
+##### lcd12864
 ##### ads1115
-##### 0.96 OLED (SSD1306)
+##### 0.96 oled (ssd1306)
 ##### ....
