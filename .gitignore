@@ -1,0 +1,10 @@
+#workspace
+
+air20x/.metadata/
+
+#project files
+
+air20x/**/.buildpath
+air20x/**/.project
+air20x/**/.settings
+**/*.dump
