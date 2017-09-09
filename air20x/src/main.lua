@@ -11,7 +11,13 @@ require"ntp"
 --require"lcddemo1"
 --require"lcddemo2"
 --require"lcddemo3"
-require"lcddemo4"
+--require"lcddemo4"
+--require"logdemo"
+require"leddemo1"
+
+--require"producer"
+--require"logconsumer"
+--require"timereportconsumer"
 
 sys.init(0,0)
 sys.setworkmode(sys.SIMPLE_MODE)
